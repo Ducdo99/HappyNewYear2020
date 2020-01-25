@@ -1,0 +1,11 @@
+E:\Happy-New-Year\HappyLunarNewYear2020\bin\Debug\netcoreapp3.1\HappyLunarNewYear2020.exe
+E:\Happy-New-Year\HappyLunarNewYear2020\bin\Debug\netcoreapp3.1\HappyLunarNewYear2020.deps.json
+E:\Happy-New-Year\HappyLunarNewYear2020\bin\Debug\netcoreapp3.1\HappyLunarNewYear2020.runtimeconfig.json
+E:\Happy-New-Year\HappyLunarNewYear2020\bin\Debug\netcoreapp3.1\HappyLunarNewYear2020.runtimeconfig.dev.json
+E:\Happy-New-Year\HappyLunarNewYear2020\bin\Debug\netcoreapp3.1\HappyLunarNewYear2020.dll
+E:\Happy-New-Year\HappyLunarNewYear2020\bin\Debug\netcoreapp3.1\HappyLunarNewYear2020.pdb
+E:\Happy-New-Year\HappyLunarNewYear2020\obj\Debug\netcoreapp3.1\HappyLunarNewYear2020.csprojAssemblyReference.cache
+E:\Happy-New-Year\HappyLunarNewYear2020\obj\Debug\netcoreapp3.1\HappyLunarNewYear2020.AssemblyInfoInputs.cache
+E:\Happy-New-Year\HappyLunarNewYear2020\obj\Debug\netcoreapp3.1\HappyLunarNewYear2020.AssemblyInfo.cs
+E:\Happy-New-Year\HappyLunarNewYear2020\obj\Debug\netcoreapp3.1\HappyLunarNewYear2020.dll
+E:\Happy-New-Year\HappyLunarNewYear2020\obj\Debug\netcoreapp3.1\HappyLunarNewYear2020.pdb
